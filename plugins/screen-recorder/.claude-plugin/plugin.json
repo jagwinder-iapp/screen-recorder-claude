@@ -1,0 +1,9 @@
+{
+  "name": "screen-recorder",
+  "version": "1.0.0",
+  "description": "Control the Screen Recorder Mac app from Claude: record the screen, a window or an area, take screenshots Claude can see, and trim, review or convert recordings to GIF.",
+  "author": { "name": "iApp" },
+  "homepage": "https://github.com/jagwinder-iapp/screen-recorder-claude",
+  "repository": "https://github.com/jagwinder-iapp/screen-recorder-claude",
+  "keywords": ["screen recording", "screenshot", "macos", "gif", "video"]
+}
