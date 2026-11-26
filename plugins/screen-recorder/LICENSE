@@ -1,0 +1,25 @@
+Screen Recorder for Claude — Proprietary License
+
+Copyright (c) 2026 iApp. All rights reserved.
+
+This repository contains the "Screen Recorder" plugin for Claude (the
+"Software"). The Software is proprietary. Its source is published only so
+that users and reviewers can inspect what it does.
+
+Permission is granted, free of charge, to any person to download, install
+and use unmodified copies of the Software, solely to use the Screen Recorder
+macOS application with Claude products.
+
+Without prior written permission from iApp, you may not:
+  1. modify, translate, adapt, or create derivative works of the Software;
+  2. copy, redistribute, sublicense, sell, rent, or lease the Software, except
+     where installing it through a Claude plugin marketplace makes a copy;
+  3. remove or change this notice or any other proprietary notice.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
