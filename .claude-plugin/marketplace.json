@@ -1,0 +1,18 @@
+{
+  "name": "iapp-tools",
+  "owner": { "name": "iApp" },
+  "metadata": {
+    "description": "iApp's Claude plugins.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "screen-recorder",
+      "source": "./plugins/screen-recorder",
+      "description": "Control the Screen Recorder Mac app from Claude: record the screen, a window or an area, take screenshots Claude can see, and trim, review or convert recordings to GIF.",
+      "version": "1.0.0",
+      "category": "productivity",
+      "keywords": ["screen recording", "screenshot", "macos", "gif", "video"]
+    }
+  ]
+}
